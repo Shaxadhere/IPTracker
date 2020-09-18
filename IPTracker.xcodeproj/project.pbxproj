@@ -15,6 +15,7 @@
 		3007CC0725135A4C00C9F652 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3007CC0525135A4C00C9F652 /* LaunchScreen.storyboard */; };
 		3007CC1225135A4C00C9F652 /* IPTrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3007CC1125135A4C00C9F652 /* IPTrackerTests.swift */; };
 		3007CC1D25135A4C00C9F652 /* IPTrackerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3007CC1C25135A4C00C9F652 /* IPTrackerUITests.swift */; };
+		3027A68A2514893E00F12CC3 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3027A6892514893E00F12CC3 /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3007CC1825135A4C00C9F652 /* IPTrackerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IPTrackerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3007CC1C25135A4C00C9F652 /* IPTrackerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IPTrackerUITests.swift; sourceTree = "<group>"; };
 		3007CC1E25135A4C00C9F652 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3027A6892514893E00F12CC3 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				3007CBFA25135A4A00C9F652 /* AppDelegate.swift */,
 				3007CBFC25135A4A00C9F652 /* SceneDelegate.swift */,
 				3007CBFE25135A4A00C9F652 /* ViewController.swift */,
+				3027A6892514893E00F12CC3 /* TableViewCell.swift */,
 				3007CC0025135A4A00C9F652 /* Main.storyboard */,
 				3007CC0325135A4C00C9F652 /* Assets.xcassets */,
 				3007CC0525135A4C00C9F652 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3007CBFF25135A4A00C9F652 /* ViewController.swift in Sources */,
+				3027A68A2514893E00F12CC3 /* TableViewCell.swift in Sources */,
 				3007CBFB25135A4A00C9F652 /* AppDelegate.swift in Sources */,
 				3007CBFD25135A4A00C9F652 /* SceneDelegate.swift in Sources */,
 			);
